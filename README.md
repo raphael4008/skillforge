@@ -1,6 +1,6 @@
-# iSchool-ELearning Management System
+# skillforge-ELearning Management System
 
-iskull (E-Learning Management System)” is comes under the Web Based Application. This application is developed with the help of HTML, CSS, Bootstrap, PHP, MySQL. iskull is a powerful Learning Management System implementing the latest trends in e-learning. A flexible web-based learning experience allows you to go through a guided 
+skillforge (E-Learning Management System)” is comes under the Web Based Application. This application is developed with the help of HTML, CSS, Bootstrap, PHP, MySQL. skillforge is a powerful Learning Management System implementing the latest trends in e-learning. A flexible web-based learning experience allows you to go through a guided 
 curriculum or choose lessons on an as-needed basis.
 
 ![](website-images/website-HomePage.PNG)
